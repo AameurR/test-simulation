@@ -9,7 +9,7 @@
 
 /* Test Suite setup and cleanup functions: */
 
-int init_suite(void) { return 0; }
+int init_suite(void) { return 0; }//hello
 int clean_suite(void) { return 0; }
 
 /************* Test case functions ****************/
